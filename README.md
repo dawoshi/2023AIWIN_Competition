@@ -1,4 +1,5 @@
 # 赛题介绍
+[比赛地址](http://www.aiwin.org.cn/competitions/86#learn_the_details)
 
 网页自动导航任务：根据用户输入的自然语言指令，在网页中规划（输出）一条动作序列，自动化完成指令中包含的用户意图
 
@@ -33,4 +34,4 @@
 
 # 模型训练
 
-生成训练数据集后 具体的训练代码请查看（chatglm ptuning）[https://github.com/THUDM/ChatGLM2-6B/tree/main/ptuning]
+生成训练数据集后 具体的训练代码请查看[chatglm ptuning](https://github.com/THUDM/ChatGLM2-6B/tree/main/ptuning)
