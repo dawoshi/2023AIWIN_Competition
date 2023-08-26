@@ -16,6 +16,7 @@
 根据response生成最终提交的样式
 
 ![提交样例](http://cdn.aiwin.org.cn/def/2023S_T1_3.png ”提交样例“)
+
 "instruction"为任务指令的自然语言形式，"key-value"为任务指令的槽位形式，key为操作节点的文本描述，dom_type为操作节点类别（DOM元素类别见“奖励函数（可选）”一节说明），value为操作值，action为动作。
 
 - description.ipynb
@@ -32,6 +33,4 @@
 
 # 模型训练
 
-- 
-
-
+生成训练数据集后 具体的训练代码请查看（chatglm ptuning）[https://github.com/THUDM/ChatGLM2-6B/tree/main/ptuning]
