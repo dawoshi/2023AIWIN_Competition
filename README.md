@@ -4,7 +4,7 @@
 
 根据指令意图与网页（网页中可能包含公告、提示等异常弹窗）功能的不同，分有不同的任务，常见的任务包括：检索、下载、收藏 、评论等。本赛题仅涉及信息检索任务，涉及的原子操作包括：输入框、下拉框、单选框、复选框、日期选择、导航树 、按钮。
 
-![https://wenshu.court.gov.cn/static/images/help04.png](中国裁判文书网)
+![中国裁判文书网] (https://wenshu.court.gov.cn/static/images/help04.png 中国裁判文书网)
 
 我们把填充表格的流程用cahtglm进行预测，训练样本构造样例如下：
 ```
@@ -15,7 +15,7 @@
 
 根据response生成最终提交的样式
 
-![http://cdn.aiwin.org.cn/def/2023S_T1_3.png]
+![提交样例](http://cdn.aiwin.org.cn/def/2023S_T1_3.png 提交样例)
 "instruction"为任务指令的自然语言形式，"key-value"为任务指令的槽位形式，key为操作节点的文本描述，dom_type为操作节点类别（DOM元素类别见“奖励函数（可选）”一节说明），value为操作值，action为动作。
 
 - description.ipynb
