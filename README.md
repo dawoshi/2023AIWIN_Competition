@@ -52,4 +52,4 @@
 - @我不吃芒果
 - @鼠鼠
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dawoshi/README&type=Date)](https://star-history.com/#dawoshi/2023AIWIN_Competition/edit/master/README.md&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dawoshi/README&type=Date)](https://star-history.com/#dawoshi/2023AIWIN_Competition/README.md&Date)
