@@ -51,5 +51,3 @@
 - @苏维埃计算机
 - @我不吃芒果
 - @鼠鼠
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dawoshi/2023AIWIN_Competition/master/README&type=Date)](https://star-history.com/#dawoshi/2023AIWIN_Competition/master/README.md&Date)
