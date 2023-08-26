@@ -39,3 +39,12 @@
 # 预测
 
 - predict.py
+
+# prompt work
+
+我们尝试给模型更多的提示信息，构造每个网站中所有模版得信息
+
+future_work.ipynb
+
+在此感谢打比赛的小伙伴
+@MrYXJ @苏维埃计算机 @我不吃芒果
