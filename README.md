@@ -16,7 +16,7 @@
 
 # 训练数据下载
 
-（链接）【https://pan.baidu.com/s/1R9mD8oi_dDS_6ShAlAygwg?pwd=gw8d】 （提取码: gw8d）
+[链接](https://pan.baidu.com/s/1R9mD8oi_dDS_6ShAlAygwg?pwd=gw8d) （提取码: gw8d）
 
 # 数据补充
 
