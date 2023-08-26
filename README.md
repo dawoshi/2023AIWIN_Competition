@@ -35,3 +35,7 @@
 # 模型训练
 
 生成训练数据集后 具体的训练代码请查看[chatglm ptuning](https://github.com/THUDM/ChatGLM2-6B/tree/main/ptuning)
+
+# 预测
+
+- predict.py
